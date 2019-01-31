@@ -7,7 +7,7 @@ package pandaybr;
  * @author brandon
  *
  */
-
+// comment
 public class Inventory {
 	private String id;
 	private String name = "New Item";
